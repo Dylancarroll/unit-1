@@ -1,0 +1,7 @@
+C:\Users\1338574\Desktop\Unit 1\ConsoleApp1\unit16 clalculator p2\unit16 clalculator p2\obj\Debug\unit16 clalculator p2.csprojAssemblyReference.cache
+C:\Users\1338574\Desktop\Unit 1\ConsoleApp1\unit16 clalculator p2\unit16 clalculator p2\obj\Debug\unit16 clalculator p2.csproj.CoreCompileInputs.cache
+C:\Users\1338574\Desktop\Unit 1\ConsoleApp1\unit16 clalculator p2\unit16 clalculator p2\bin\Debug\unit16 clalculator p2.exe.config
+C:\Users\1338574\Desktop\Unit 1\ConsoleApp1\unit16 clalculator p2\unit16 clalculator p2\bin\Debug\unit16 clalculator p2.exe
+C:\Users\1338574\Desktop\Unit 1\ConsoleApp1\unit16 clalculator p2\unit16 clalculator p2\bin\Debug\unit16 clalculator p2.pdb
+C:\Users\1338574\Desktop\Unit 1\ConsoleApp1\unit16 clalculator p2\unit16 clalculator p2\obj\Debug\unit16 clalculator p2.exe
+C:\Users\1338574\Desktop\Unit 1\ConsoleApp1\unit16 clalculator p2\unit16 clalculator p2\obj\Debug\unit16 clalculator p2.pdb
